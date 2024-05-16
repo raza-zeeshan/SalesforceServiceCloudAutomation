@@ -1,0 +1,15 @@
+execution_env=local
+ 
+ 
+URL=https://login.salesforce.com/?locale=in
+username=zeeshan@cogz.com
+password=12424@2335144N
+subject=display screen problem
+desc=phone fall down on the floor display damaged
+Aname=Raj Kumar
+Clone=Clone Case
+body=the case has been closed successfully this is acknowledgement mail
+escalate=escalate case
+parent=00001034
+to=Zeeshan
+has context menu

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-16T16:29:16 IST" name="Suite" finished-at="2024-05-16T16:30:40 IST" duration-ms="83548">
+    <groups>
+    </groups>
+    <test started-at="2024-05-16T16:29:16 IST" name="ChromeTest" finished-at="2024-05-16T16:30:40 IST" duration-ms="83548">
+      <class name="testCase.ServiceTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.ServiceTest@497486b3]" started-at="2024-05-16T16:29:17 IST" name="setup" finished-at="2024-05-16T16:29:21 IST" duration-ms="4197" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:testCase.ServiceTest@497486b3]" started-at="2024-05-16T16:29:21 IST" name="login" finished-at="2024-05-16T16:29:39 IST" duration-ms="18301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="cases()[pri:2, instance:testCase.ServiceTest@497486b3]" started-at="2024-05-16T16:29:39 IST" name="cases" finished-at="2024-05-16T16:29:49 IST" duration-ms="9428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cases -->
+        <test-method signature="casedetails()[pri:3, instance:testCase.ServiceTest@497486b3]" started-at="2024-05-16T16:29:49 IST" name="casedetails" finished-at="2024-05-16T16:29:59 IST" duration-ms="10403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- casedetails -->
+        <test-method signature="cloneCase()[pri:4, instance:testCase.ServiceTest@497486b3]" started-at="2024-05-16T16:29:59 IST" name="cloneCase" finished-at="2024-05-16T16:30:08 IST" duration-ms="8791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloneCase -->
+        <test-method signature="checkclone()[pri:5, instance:testCase.ServiceTest@497486b3]" started-at="2024-05-16T16:30:08 IST" name="checkclone" finished-at="2024-05-16T16:30:08 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkclone -->
+        <test-method signature="Escalate()[pri:6, instance:testCase.ServiceTest@497486b3]" started-at="2024-05-16T16:30:08 IST" name="Escalate" finished-at="2024-05-16T16:30:13 IST" duration-ms="5122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Escalate -->
+        <test-method signature="checkStatus()[pri:7, instance:testCase.ServiceTest@497486b3]" started-at="2024-05-16T16:30:13 IST" name="checkStatus" finished-at="2024-05-16T16:30:13 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+        <test-method signature="email()[pri:8, instance:testCase.ServiceTest@497486b3]" started-at="2024-05-16T16:30:13 IST" name="email" finished-at="2024-05-16T16:30:37 IST" duration-ms="23538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- email -->
+        <test-method signature="SLA()[pri:9, instance:testCase.ServiceTest@497486b3]" started-at="2024-05-16T16:30:37 IST" name="SLA" finished-at="2024-05-16T16:30:40 IST" duration-ms="3221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SLA -->
+      </class> <!-- testCase.ServiceTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,71 @@
+01:24:27.537 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ghufr\eclipse-workspace\ServiceCloudAutomation\master.xml
+
+01:26:56.722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ghufr\eclipse-workspace\ServiceCloudAutomation\master.xml
+
+01:28:19.048 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ghufr\eclipse-workspace\ServiceCloudAutomation\master.xml
+
+01:30:16.073 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ghufr\eclipse-workspace\ServiceCloudAutomation\master.xml
+
+01:30:57.951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ghufr\eclipse-workspace\ServiceCloudAutomation\master.xml
+
+01:36:09.258 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ghufr\eclipse-workspace\ServiceCloudAutomation\master.xml
+
+16:20:10.570 [main] INFO  testCase.ServiceTest - //starting Login Test//
+16:20:10.575 [main] INFO  testCase.ServiceTest - //Entering Username and Password//
+16:20:17.228 [main] INFO  testCase.ServiceTest - //Login Test Completed Successfully//
+16:20:17.286 [main] INFO  testCase.ServiceTest - //starting Case Test//
+16:20:47.421 [main] INFO  testCase.ServiceTest - //Starting Case Details Test//
+16:21:10.338 [main] INFO  testCase.ServiceTest - //Starting Clone Case Test//
+16:21:10.393 [main] INFO  testCase.ServiceTest - //Starting Clone Check Test//
+16:21:10.455 [main] INFO  testCase.ServiceTest - //Starting Escalate Test//
+16:21:10.488 [main] INFO  testCase.ServiceTest - //Starting Check Status Test//
+16:21:10.501 [main] INFO  testCase.ServiceTest - //Starting Email Test//
+16:21:10.557 [main] INFO  testCase.ServiceTest - //Starting SLA Test//
+16:22:20.018 [main] INFO  testCase.ServiceTest - //starting Login Test//
+16:22:20.026 [main] INFO  testCase.ServiceTest - //Entering Username and Password//
+16:22:31.925 [main] INFO  testCase.ServiceTest - //Login Test Completed Successfully//
+16:22:31.985 [main] INFO  testCase.ServiceTest - //starting Case Test//
+16:22:35.514 [main] INFO  testCase.ServiceTest - //Clicked on Case Object//
+16:22:36.304 [main] INFO  testCase.ServiceTest - //Clicked on New Button//
+16:22:36.461 [main] INFO  testCase.ServiceTest - //Record Type Selected//
+16:22:39.125 [main] INFO  testCase.ServiceTest - //Case Test Completed Successfully//
+16:22:39.147 [main] INFO  testCase.ServiceTest - //Starting Case Details Test//
+16:22:39.409 [main] INFO  testCase.ServiceTest - //Clicked on Status Button//
+16:22:39.915 [main] INFO  testCase.ServiceTest - //Case Origin Selected//
+16:22:40.059 [main] INFO  testCase.ServiceTest - //Subject Added//
+16:22:40.299 [main] INFO  testCase.ServiceTest - //Description Added//
+16:22:43.254 [main] INFO  testCase.ServiceTest - //Account Name Added//
+16:22:50.736 [main] INFO  testCase.ServiceTest - //Clicked on Save Button//
+16:22:50.737 [main] INFO  testCase.ServiceTest - //Case Details Test Completed Successfully//
+16:22:50.755 [main] INFO  testCase.ServiceTest - //Starting Clone Case Test//
+16:22:50.870 [main] INFO  testCase.ServiceTest - //Clicked on Details Section//
+16:22:51.652 [main] INFO  testCase.ServiceTest - //Clicked on Clone Button//
+16:22:51.805 [main] INFO  testCase.ServiceTest - //Subject Changed Successfully//
+16:22:56.370 [main] INFO  testCase.ServiceTest - //Clicked on Save Button//
+16:22:56.371 [main] INFO  testCase.ServiceTest - //Clone Case Test Completed Successfully//
+16:22:56.384 [main] INFO  testCase.ServiceTest - //Starting Clone Check Test//
+16:22:56.489 [main] INFO  testCase.ServiceTest - //Clone Check Test Completed Successfully//
+16:22:56.494 [main] INFO  testCase.ServiceTest - //Starting Escalate Test//
+16:22:58.295 [main] INFO  testCase.ServiceTest - //Clicked on Escalate Button//
+16:22:58.467 [main] INFO  testCase.ServiceTest - //Parent Record Selected//
+16:22:58.630 [main] INFO  testCase.ServiceTest - //Case Origin Changed//
+16:22:58.740 [main] INFO  testCase.ServiceTest - //Status Value Changed//
+16:22:58.951 [main] INFO  testCase.ServiceTest - //Subject Modified//
+16:23:00.700 [main] INFO  testCase.ServiceTest - //Clicked on Save Button//
+16:23:00.702 [main] INFO  testCase.ServiceTest - //Escalate Test Completed Successfully//
+16:23:00.711 [main] INFO  testCase.ServiceTest - //Starting Check Status Test//
+16:23:00.804 [main] INFO  testCase.ServiceTest - //Check Status Test Completed Successfully//
+16:23:00.807 [main] INFO  testCase.ServiceTest - //Starting Email Test//
+16:23:02.380 [main] INFO  testCase.ServiceTest - //Clicked on Case Button//
+16:23:04.859 [main] INFO  testCase.ServiceTest - //Clicked on Clone Button//
+16:23:05.038 [main] INFO  testCase.ServiceTest - //Clicked on Details Section//
+16:23:07.576 [main] INFO  testCase.ServiceTest - //Clicked on Email Button//
+16:23:09.771 [main] INFO  testCase.ServiceTest - //Clicked on To Button//
+16:23:10.879 [main] INFO  testCase.ServiceTest - //Selected Account Name//
+16:23:11.692 [main] INFO  testCase.ServiceTest - //Selected Template//

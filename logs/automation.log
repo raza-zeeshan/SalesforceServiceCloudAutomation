@@ -1,0 +1,62 @@
+16:23:12.649 [main] INFO  testCase.ServiceTest - //Clicked on Attached File Button//
+16:23:16.384 [main] INFO  testCase.ServiceTest - //Selected File//
+16:23:32.668 [main] INFO  testCase.ServiceTest - //Clicked on Done Button//
+16:23:37.103 [main] INFO  testCase.ServiceTest - //Clicked on Send Button//
+16:23:37.104 [main] INFO  testCase.ServiceTest - //Email Case Completed Successfully//
+16:23:37.109 [main] INFO  testCase.ServiceTest - //Starting SLA Test//
+16:23:38.713 [main] INFO  testCase.ServiceTest - //Clicked on Edit Button//
+16:23:38.828 [main] INFO  testCase.ServiceTest - //Status Value Modified//
+16:23:41.320 [main] INFO  testCase.ServiceTest - //Clicked on SAve Button//
+16:23:41.320 [main] INFO  testCase.ServiceTest - //SLA Test Completed Successfully//
+16:29:21.591 [main] INFO  testCase.ServiceTest - //starting Login Test//
+16:29:21.595 [main] INFO  testCase.ServiceTest - //Entering Username and Password//
+16:29:39.774 [main] INFO  testCase.ServiceTest - //Login Test Completed Successfully//
+16:29:39.840 [main] INFO  testCase.ServiceTest - //starting Case Test//
+16:29:45.365 [main] INFO  testCase.ServiceTest - //Clicked on Case Object//
+16:29:46.233 [main] INFO  testCase.ServiceTest - //Clicked on New Button//
+16:29:46.507 [main] INFO  testCase.ServiceTest - //Record Type Selected//
+16:29:49.248 [main] INFO  testCase.ServiceTest - //Case Test Completed Successfully//
+16:29:49.283 [main] INFO  testCase.ServiceTest - //Starting Case Details Test//
+16:29:49.482 [main] INFO  testCase.ServiceTest - //Clicked on Status Button//
+16:29:49.616 [main] INFO  testCase.ServiceTest - //Case Origin Selected//
+16:29:49.735 [main] INFO  testCase.ServiceTest - //Subject Added//
+16:29:49.907 [main] INFO  testCase.ServiceTest - //Description Added//
+16:29:51.403 [main] INFO  testCase.ServiceTest - //Account Name Added//
+16:29:59.661 [main] INFO  testCase.ServiceTest - //Clicked on Save Button//
+16:29:59.661 [main] INFO  testCase.ServiceTest - //Case Details Test Completed Successfully//
+16:29:59.668 [main] INFO  testCase.ServiceTest - //Starting Clone Case Test//
+16:29:59.759 [main] INFO  testCase.ServiceTest - //Clicked on Details Section//
+16:30:00.426 [main] INFO  testCase.ServiceTest - //Clicked on Clone Button//
+16:30:00.623 [main] INFO  testCase.ServiceTest - //Subject Changed Successfully//
+16:30:08.448 [main] INFO  testCase.ServiceTest - //Clicked on Save Button//
+16:30:08.449 [main] INFO  testCase.ServiceTest - //Clone Case Test Completed Successfully//
+16:30:08.461 [main] INFO  testCase.ServiceTest - //Starting Clone Check Test//
+16:30:08.577 [main] INFO  testCase.ServiceTest - //Clone Check Test Completed Successfully//
+16:30:08.579 [main] INFO  testCase.ServiceTest - //Starting Escalate Test//
+16:30:10.369 [main] INFO  testCase.ServiceTest - //Clicked on Escalate Button//
+16:30:10.581 [main] INFO  testCase.ServiceTest - //Parent Record Selected//
+16:30:10.779 [main] INFO  testCase.ServiceTest - //Case Origin Changed//
+16:30:10.975 [main] INFO  testCase.ServiceTest - //Status Value Changed//
+16:30:11.241 [main] INFO  testCase.ServiceTest - //Subject Modified//
+16:30:13.700 [main] INFO  testCase.ServiceTest - //Clicked on Save Button//
+16:30:13.701 [main] INFO  testCase.ServiceTest - //Escalate Test Completed Successfully//
+16:30:13.703 [main] INFO  testCase.ServiceTest - //Starting Check Status Test//
+16:30:13.761 [main] INFO  testCase.ServiceTest - //Check Status Test Completed Successfully//
+16:30:13.763 [main] INFO  testCase.ServiceTest - //Starting Email Test//
+16:30:15.443 [main] INFO  testCase.ServiceTest - //Clicked on Case Button//
+16:30:17.861 [main] INFO  testCase.ServiceTest - //Clicked on Clone Button//
+16:30:17.928 [main] INFO  testCase.ServiceTest - //Clicked on Details Section//
+16:30:20.440 [main] INFO  testCase.ServiceTest - //Clicked on Email Button//
+16:30:23.358 [main] INFO  testCase.ServiceTest - //Clicked on To Button//
+16:30:24.415 [main] INFO  testCase.ServiceTest - //Selected Account Name//
+16:30:26.127 [main] INFO  testCase.ServiceTest - //Selected Template//
+16:30:27.001 [main] INFO  testCase.ServiceTest - //Clicked on Attached File Button//
+16:30:30.610 [main] INFO  testCase.ServiceTest - //Selected File//
+16:30:33.002 [main] INFO  testCase.ServiceTest - //Clicked on Done Button//
+16:30:37.299 [main] INFO  testCase.ServiceTest - //Clicked on Send Button//
+16:30:37.300 [main] INFO  testCase.ServiceTest - //Email Case Completed Successfully//
+16:30:37.304 [main] INFO  testCase.ServiceTest - //Starting SLA Test//
+16:30:38.053 [main] INFO  testCase.ServiceTest - //Clicked on Edit Button//
+16:30:38.181 [main] INFO  testCase.ServiceTest - //Status Value Modified//
+16:30:40.522 [main] INFO  testCase.ServiceTest - //Clicked on SAve Button//
+16:30:40.523 [main] INFO  testCase.ServiceTest - //SLA Test Completed Successfully//

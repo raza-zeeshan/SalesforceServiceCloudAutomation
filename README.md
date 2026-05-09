@@ -14,7 +14,6 @@ This project provides tools and utilities to automate common Service Cloud tasks
 - **Performance Optimization** - Enhanced query and data processing efficiency
 
 ## Getting Started
-
 ### Prerequisites
 
 - Salesforce account with Service Cloud enabled

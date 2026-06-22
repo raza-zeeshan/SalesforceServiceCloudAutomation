@@ -22,7 +22,6 @@ This project provides tools and utilities to automate common Service Cloud tasks
 
 ### Installation
 
-
 1. Clone the repository:
 ```bash
 git clone https://github.com/raza-zeeshan/SalesforceServiceCloudAutomation.git

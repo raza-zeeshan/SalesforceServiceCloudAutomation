@@ -8,7 +8,6 @@ This project provides tools and utilities to automate common Service Cloud tasks
 
 ## Features
 
-
 - **Automated Case Management** - Streamline case creation, routing, and updates
 - **Service Cloud Integration** - Seamless integration with Salesforce Service Cloud
 - **Workflow Automation** - Automate repetitive processes and tasks

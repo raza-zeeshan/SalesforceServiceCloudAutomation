@@ -28,7 +28,6 @@ git clone https://github.com/raza-zeeshan/SalesforceServiceCloudAutomation.git
 cd SalesforceServiceCloudAutomation
 ```
 
-
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt

@@ -39,7 +39,6 @@ cp config.example.yml config.yml
 # Edit config.yml with your Salesforce credentials
 ```
 
-
 ## Usage
 
 [Add usage instructions specific to your project]
